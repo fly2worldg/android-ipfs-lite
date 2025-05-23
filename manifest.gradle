@@ -20,7 +20,7 @@ ext {
     targetSdk = 28
 
     // Gradle classpath dependencies versions
-    gradleVersion = '3.4.1'
+    gradleVersion = '7.4.2'
     mavenGradleVersion = '2.1'
     bintrayPluginVersion = '1.7'
 
